@@ -43,6 +43,10 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
+#ios
+/ios/Runner/GoogleService-Info.plist
+/ios/Runner/Info.plist
+
 # config file for rapyd
 /lib/config/
 /lib/config/rapyd_config.dart
